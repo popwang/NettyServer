@@ -1,0 +1,6 @@
+[INFO ] [15:30:23] com.my.http.HttpRequestUtils - http://ssp.tunnel.qydev.com/pub?userkey=AZDZ00000088&data=&date=201705131530
+[INFO ] [15:30:23] com.my.http.HttpRequestUtils - success
+[INFO ] [15:31:19] com.my.http.HttpRequestUtils - http://ssp.tunnel.qydev.com/pub?userkey=AZDZ00000088&data=0.0,60.0,32.1,50.6,0.0,0.8,1.0,0.0&date=201705131531
+[INFO ] [15:31:20] com.my.http.HttpRequestUtils - success
+[INFO ] [15:33:22] com.my.http.HttpRequestUtils - http://ssp.tunnel.qydev.com/pub?userkey=AZDZ00000088&data=0,60,32.1,50,0.0,0.8,1,0.0&date=201705131533
+[INFO ] [15:33:23] com.my.http.HttpRequestUtils - success

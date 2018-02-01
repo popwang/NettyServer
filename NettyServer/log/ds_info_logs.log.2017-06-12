@@ -1,0 +1,36 @@
+[INFO ] [21:48:05] com.test.LoginClient - AZ00000046-info-:STX 6501|AZ|V1.0|AZ00000046|32.1|50.6|0.0|60.0|0|0.0|0.8|1.0|AZ00000046 ETX
+[INFO ] [21:48:05] com.test.LoginClient - ZB00000117-info-:STX 6501|ZB|V1.0|ZB00000117|32.1|50.6|0.0|60.0|0|0.0|0.8|1.0|ZB00000117 ETX
+[INFO ] [21:49:50] com.test.LoginClient - AZ00000046-info-:STX 6501|AZ|V1.0|AZ00000046|32.1|50.6|0.0|60.0|0|0.0|0.8|1.0|AZ00000046 ETX
+[INFO ] [21:49:50] com.test.LoginClient - send over!
+[INFO ] [21:49:50] com.test.LoginClient - ZB00000117-info-:STX 6501|ZB|V1.0|ZB00000117|32.1|50.6|0.0|60.0|0|0.0|0.8|1.0|ZB00000117 ETX
+[INFO ] [21:49:50] com.test.LoginClient - send over!
+[INFO ] [22:22:14] com.test.LoginClient - AZ00000046-info-:STX 6301|AZ|V1.0|AZ00000046|32.1|50.6|0.0|60.0|0|0.0|0.8|N|AZ00000046 ETX
+[INFO ] [22:22:14] com.test.LoginClient - send over!
+[INFO ] [22:22:14] com.test.LoginClient - ZB00000117-info-:STX 6301|ZB|V1.0|ZB00000117|32.1|50.6|0.0|60.0|0|0.0|0.8|N|ZB00000117 ETX
+[INFO ] [22:22:14] com.test.LoginClient - send over!
+[INFO ] [22:27:14] com.test.LoginClient - AZ00000046-info-:STX 6301|AZ|V1.0|AZ00000046|32.1|50.6|0.0|60.0|0|0.0|0.8|N|AZ00000046 ETX
+[INFO ] [22:27:14] com.test.LoginClient - send over!
+[INFO ] [22:27:14] com.test.LoginClient - ZB00000117-info-:STX 6301|ZB|V1.0|ZB00000117|32.1|50.6|0.0|60.0|0|0.0|0.8|N|ZB00000117 ETX
+[INFO ] [22:27:14] com.test.LoginClient - send over!
+[INFO ] [23:28:02] com.test.LoginClient - AZ00000046-info-:STX 6301|AZ|V1.0|AZ00000046|32.1|50.6|0.0|60.0|0|0.0|0.8|N|AZ00000046 ETX\n
+[INFO ] [23:28:02] com.test.LoginClient - send over!
+[INFO ] [23:28:02] com.test.LoginClient - ZB00000117-info-:STX 6301|ZB|V1.0|ZB00000117|32.1|50.6|0.0|60.0|0|0.0|0.8|N|ZB00000117 ETX\n
+[INFO ] [23:28:02] com.test.LoginClient - send over!
+[INFO ] [23:28:34] com.test.LoginClient - AZ00000046-info-:STX 6301|AZ|V1.0|AZ00000046|32.1|50.6|0.0|60.0|0|0.0|0.8|N|AZ00000046 ETX
+
+[INFO ] [23:28:34] com.test.LoginClient - send over!
+[INFO ] [23:28:34] com.test.LoginClient - ZB00000117-info-:STX 6301|ZB|V1.0|ZB00000117|32.1|50.6|0.0|60.0|0|0.0|0.8|N|ZB00000117 ETX
+
+[INFO ] [23:28:34] com.test.LoginClient - send over!
+[INFO ] [23:29:57] com.test.LoginClient - AZ00000046-info-:STX 6301|AZ|V1.0|AZ00000046|32.1|50.6|0.0|60.0|0|0.0|0.8|N|AZ00000046 ETX
+
+[INFO ] [23:29:57] com.test.LoginClient - send over!
+[INFO ] [23:29:57] com.test.LoginClient - ZB00000117-info-:STX 6301|ZB|V1.0|ZB00000117|32.1|50.6|0.0|60.0|0|0.0|0.8|N|ZB00000117 ETX
+
+[INFO ] [23:29:57] com.test.LoginClient - send over!
+[INFO ] [23:32:13] com.test.LoginClient - AZ00000046-info-:STX 6301|AZ|V1.0|AZ00000046|32.1|50.6|0.0|60.0|0|0.0|0.8|N|AZ00000046 ETX
+
+[INFO ] [23:32:13] com.test.LoginClient - send over!
+[INFO ] [23:32:13] com.test.LoginClient - ZB00000117-info-:STX 6301|ZB|V1.0|ZB00000117|32.1|50.6|0.0|60.0|0|0.0|0.8|N|ZB00000117 ETX
+
+[INFO ] [23:32:13] com.test.LoginClient - send over!

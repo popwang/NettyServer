@@ -1,0 +1,65 @@
+[ERROR] [11:14:45] io.netty.handler.logging.LoggingHandler - [id: 0xb020444f] REGISTERED
+[ERROR] [11:14:45] io.netty.handler.logging.LoggingHandler - [id: 0xb020444f] BIND: 0.0.0.0/0.0.0.0:9999
+[INFO ] [11:14:45] com.my.server.NettySocketServer - 服务已经启动，端口号 :9999
+[ERROR] [11:14:45] io.netty.handler.logging.LoggingHandler - [id: 0xb020444f, L:/0:0:0:0:0:0:0:0:9999] ACTIVE
+[ERROR] [11:19:30] io.netty.handler.logging.LoggingHandler - [id: 0x9421a36a] REGISTERED
+[ERROR] [11:19:30] io.netty.handler.logging.LoggingHandler - [id: 0x9421a36a] BIND: 0.0.0.0/0.0.0.0:9999
+[INFO ] [11:19:30] com.my.server.NettySocketServer - 服务已经启动，端口号 :9999
+[ERROR] [11:19:30] io.netty.handler.logging.LoggingHandler - [id: 0x9421a36a, L:/0:0:0:0:0:0:0:0:9999] ACTIVE
+[ERROR] [11:20:09] io.netty.handler.logging.LoggingHandler - [id: 0x9421a36a, L:/0:0:0:0:0:0:0:0:9999] RECEIVED: [id: 0x49aa6309, L:/127.0.0.1:9999 - R:/127.0.0.1:56926]
+[INFO ] [11:20:09] com.my.server.DataServerHandler - /127.0.0.1:56926 客户端连接成功!
+[INFO ] [11:20:40] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:20:40] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:20:41] com.my.server.DataServerHandler - 设备编号为：00000400的第3号指令已发送成功！
+[INFO ] [11:20:49] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:20:49] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:20:52] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:20:52] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:20:52] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:20:52] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:21:08] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:21:08] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:21:08] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:21:08] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:21:09] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:21:09] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:21:10] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:21:10] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:15] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:15] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:16] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:16] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:17] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:17] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:18] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:18] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:18] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:18] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:21] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:21] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:22] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:22] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:23] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:23] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:23] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:23] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:24] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:24] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:25] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:25] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:25] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:25] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:26] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:26] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:27] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:27] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:28] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:28] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:28] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:28] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:29] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:29] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:30] com.my.server.DataServerHandler - /127.0.0.1:56926:SEND,DATAS,00000400,0,48,59,0.0,6,18.1,72.0,102.9,50,1008,0,8,0,34.725957,113.641365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,END
+[INFO ] [11:23:30] com.my.server.DataServerHandler - 新设备接入：
+[INFO ] [11:23:32] com.my.server.DataServerHandler - /127.0.0.1:56926 客户端断开连接！
+[INFO ] [11:23:32] com.my.server.DataServerHandler - /127.0.0.1:56926连接已移除！

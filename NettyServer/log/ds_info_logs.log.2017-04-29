@@ -1,0 +1,57 @@
+[ERROR] [22:46:27] io.netty.handler.logging.LoggingHandler - [id: 0xbac07f35] REGISTERED
+[ERROR] [22:46:27] io.netty.handler.logging.LoggingHandler - [id: 0xbac07f35] BIND: 0.0.0.0/0.0.0.0:8888
+[INFO ] [22:46:27] com.my.server.NettySocketServer - 服务已经启动，端口号 :8888
+[ERROR] [22:46:27] io.netty.handler.logging.LoggingHandler - [id: 0xbac07f35, L:/0:0:0:0:0:0:0:0:8888] ACTIVE
+[ERROR] [22:47:12] io.netty.handler.logging.LoggingHandler - [id: 0xbac07f35, L:/0:0:0:0:0:0:0:0:8888] RECEIVED: [id: 0x664b55c2, L:/192.168.1.100:8888 - R:/192.168.1.100:52755]
+[INFO ] [22:47:12] com.my.server.DataServerHandler - /192.168.1.100:52755 客户端连接成功!
+[INFO ] [22:47:40] com.my.server.DataServerHandler - /192.168.1.100:52755:SEND,DATAS,00000088,0,65,60,0.8,1,32.1,50.6,60.7,0,0,0,0,0,31.725957,112.641365,END
+[ERROR] [22:48:08] io.netty.handler.logging.LoggingHandler - [id: 0xd4209f3b] REGISTERED
+[ERROR] [22:48:08] io.netty.handler.logging.LoggingHandler - [id: 0xd4209f3b] BIND: 0.0.0.0/0.0.0.0:8888
+[INFO ] [22:48:08] com.my.server.NettySocketServer - 服务已经启动，端口号 :8888
+[ERROR] [22:48:08] io.netty.handler.logging.LoggingHandler - [id: 0xd4209f3b, L:/0:0:0:0:0:0:0:0:8888] ACTIVE
+[ERROR] [22:48:15] io.netty.handler.logging.LoggingHandler - [id: 0xd4209f3b, L:/0:0:0:0:0:0:0:0:8888] RECEIVED: [id: 0x9657ef65, L:/192.168.1.100:8888 - R:/192.168.1.100:52795]
+[INFO ] [22:48:15] com.my.server.DataServerHandler - /192.168.1.100:52795 客户端连接成功!
+[INFO ] [22:48:28] com.my.server.DataServerHandler - /192.168.1.100:52795:SEND,DATAS,00000088,0,65,60,0.8,1,32.1,50.6,60.7,0,0,0,0,0,31.725957,112.641365,END
+[INFO ] [22:48:44] com.my.server.DataServerHandler - /192.168.1.100:52795 客户端断开连接！
+[INFO ] [22:48:44] com.my.server.DataServerHandler - /192.168.1.100:52795连接已移除！
+[ERROR] [22:49:22] io.netty.handler.logging.LoggingHandler - [id: 0xd4209f3b, L:/0:0:0:0:0:0:0:0:8888] RECEIVED: [id: 0x6e416a0b, L:/192.168.1.100:8888 - R:/192.168.1.100:52799]
+[INFO ] [22:49:22] com.my.server.DataServerHandler - /192.168.1.100:52799 客户端连接成功!
+[INFO ] [22:50:03] com.my.server.DataServerHandler - /192.168.1.100:52799连接已关闭！
+[INFO ] [22:50:03] com.my.server.DataServerHandler - /192.168.1.100:52799 客户端断开连接！
+[INFO ] [22:50:03] com.my.server.DataServerHandler - /192.168.1.100:52799连接已移除！
+[ERROR] [22:50:54] io.netty.handler.logging.LoggingHandler - [id: 0x4484b3d2] REGISTERED
+[ERROR] [22:50:54] io.netty.handler.logging.LoggingHandler - [id: 0x4484b3d2] BIND: 0.0.0.0/0.0.0.0:8888
+[INFO ] [22:50:54] com.my.server.NettySocketServer - 服务已经启动，端口号 :8888
+[ERROR] [22:50:54] io.netty.handler.logging.LoggingHandler - [id: 0x4484b3d2, L:/0:0:0:0:0:0:0:0:8888] ACTIVE
+[ERROR] [22:51:24] io.netty.handler.logging.LoggingHandler - [id: 0x4484b3d2, L:/0:0:0:0:0:0:0:0:8888] RECEIVED: [id: 0x61e7ddf6, L:/192.168.1.100:8888 - R:/192.168.1.100:52839]
+[INFO ] [22:51:24] com.my.server.DataServerHandler - /192.168.1.100:52839 客户端连接成功!
+[INFO ] [22:51:32] com.my.server.DataServerHandler - /192.168.1.100:52839 客户端断开连接！
+[INFO ] [22:51:32] com.my.server.DataServerHandler - /192.168.1.100:52839连接已移除！
+[ERROR] [22:51:50] io.netty.handler.logging.LoggingHandler - [id: 0x4484b3d2, L:/0:0:0:0:0:0:0:0:8888] RECEIVED: [id: 0x44c8f8ab, L:/192.168.1.100:8888 - R:/192.168.1.100:52840]
+[INFO ] [22:51:50] com.my.server.DataServerHandler - /192.168.1.100:52840 客户端连接成功!
+[INFO ] [22:51:58] com.my.server.DataServerHandler - /192.168.1.100:52840:SEND,DATAS,00000088,0,65,60,0.8,1,32.1,50.6,60.7,0,0,0,0,0,31.725957,112.641365,END
+[INFO ] [22:52:07] com.my.server.DataServerHandler - /192.168.1.100:52840 客户端断开连接！
+[INFO ] [22:52:07] com.my.server.DataServerHandler - /192.168.1.100:52840连接已移除！
+[ERROR] [22:52:18] io.netty.handler.logging.LoggingHandler - [id: 0x4484b3d2, L:/0:0:0:0:0:0:0:0:8888] RECEIVED: [id: 0xcfba9ce3, L:/192.168.1.100:8888 - R:/192.168.1.100:52846]
+[INFO ] [22:52:18] com.my.server.DataServerHandler - /192.168.1.100:52846 客户端连接成功!
+[ERROR] [22:53:02] io.netty.handler.logging.LoggingHandler - [id: 0x4484b3d2, L:/0:0:0:0:0:0:0:0:8888] RECEIVED: [id: 0x42e05d8d, L:/192.168.1.100:8888 - R:/192.168.1.100:52849]
+[INFO ] [22:53:02] com.my.server.DataServerHandler - /192.168.1.100:52849 客户端连接成功!
+[INFO ] [22:53:21] com.my.server.DataServerHandler - /192.168.1.100:52849连接已关闭！
+[INFO ] [22:53:21] com.my.server.DataServerHandler - /192.168.1.100:52849 客户端断开连接！
+[INFO ] [22:53:21] com.my.server.DataServerHandler - /192.168.1.100:52849连接已移除！
+[INFO ] [22:53:50] com.my.server.DataServerHandler - /192.168.1.100:52846连接已关闭！
+[INFO ] [22:53:50] com.my.server.DataServerHandler - /192.168.1.100:52846 客户端断开连接！
+[INFO ] [22:53:50] com.my.server.DataServerHandler - /192.168.1.100:52846连接已移除！
+[ERROR] [22:54:53] io.netty.handler.logging.LoggingHandler - [id: 0xf2bf4abe] REGISTERED
+[ERROR] [22:54:53] io.netty.handler.logging.LoggingHandler - [id: 0xf2bf4abe] BIND: 0.0.0.0/0.0.0.0:8888
+[INFO ] [22:54:53] com.my.server.NettySocketServer - 服务已经启动，端口号 :8888
+[ERROR] [22:54:53] io.netty.handler.logging.LoggingHandler - [id: 0xf2bf4abe, L:/0:0:0:0:0:0:0:0:8888] ACTIVE
+[ERROR] [22:55:10] io.netty.handler.logging.LoggingHandler - [id: 0xf2bf4abe, L:/0:0:0:0:0:0:0:0:8888] RECEIVED: [id: 0x55f83b27, L:/192.168.1.100:8888 - R:/192.168.1.100:52892]
+[INFO ] [22:55:10] com.my.server.DataServerHandler - /192.168.1.100:52892 客户端连接成功!
+[INFO ] [22:55:15] com.my.server.DataServerHandler - /192.168.1.100:52892 客户端断开连接！
+[INFO ] [22:55:15] com.my.server.DataServerHandler - /192.168.1.100:52892连接已移除！
+[ERROR] [22:55:17] io.netty.handler.logging.LoggingHandler - [id: 0xf2bf4abe, L:/0:0:0:0:0:0:0:0:8888] RECEIVED: [id: 0x9aa8bbec, L:/192.168.1.100:8888 - R:/192.168.1.100:52893]
+[INFO ] [22:55:17] com.my.server.DataServerHandler - /192.168.1.100:52893 客户端连接成功!
+[INFO ] [22:55:26] com.my.server.DataServerHandler - /192.168.1.100:52893连接已关闭！
+[INFO ] [22:55:26] com.my.server.DataServerHandler - /192.168.1.100:52893 客户端断开连接！
+[INFO ] [22:55:26] com.my.server.DataServerHandler - /192.168.1.100:52893连接已移除！

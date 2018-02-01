@@ -1,0 +1,60 @@
+[INFO ] [12:43:29] com.my.http.HttpRequestUtils - http://ssp.tunnel.qydev.com/pub?userkey=AZDZ00000048&data=&date=201706231243
+[INFO ] [12:43:38] com.my.http.HttpRequestUtils - <html>
+<body style="background-color: #97a8b9">
+    <div style="margin:auto; width:400px;padding: 20px 60px; background-color: #D3D3D3; border: 5px solid maroon;">
+        <h2>Tunnel http://ssp.tunnel.qydev.com unavailable</h2>
+        <p>Unable to initiate connection to <strong>127.0.0.1:80</strong>. A web server must be running on port <strong>127.0.0.1:80</strong> to complete the tunnel.</p>
+
+[INFO ] [12:43:38] com.my.http.HttpRequestUtils - http://ssp.tunnel.qydev.com/pub?userkey=AZDZ00000103&data=&date=201706231243
+[INFO ] [12:43:40] com.my.http.HttpRequestUtils - <html>
+<body style="background-color: #97a8b9">
+    <div style="margin:auto; width:400px;padding: 20px 60px; background-color: #D3D3D3; border: 5px solid maroon;">
+        <h2>Tunnel http://ssp.tunnel.qydev.com unavailable</h2>
+        <p>Unable to initiate connection to <strong>127.0.0.1:80</strong>. A web server must be running on port <strong>127.0.0.1:80</strong> to complete the tunnel.</p>
+
+[INFO ] [12:43:40] com.my.http.HttpRequestUtils - http://ssp.tunnel.qydev.com/pub?userkey=ZBLW00000132&data=&date=201706231243
+[INFO ] [12:43:41] com.my.http.HttpRequestUtils - <html>
+<body style="background-color: #97a8b9">
+    <div style="margin:auto; width:400px;padding: 20px 60px; background-color: #D3D3D3; border: 5px solid maroon;">
+        <h2>Tunnel http://ssp.tunnel.qydev.com unavailable</h2>
+        <p>Unable to initiate connection to <strong>127.0.0.1:80</strong>. A web server must be running on port <strong>127.0.0.1:80</strong> to complete the tunnel.</p>
+
+[INFO ] [12:44:16] com.my.http.HttpRequestUtils - http://ssp.tunnel.qydev.com/pub?userkey=AZDZ00000048&data=&date=201706231244
+[INFO ] [12:44:25] com.my.http.HttpRequestUtils - <html>
+<body style="background-color: #97a8b9">
+    <div style="margin:auto; width:400px;padding: 20px 60px; background-color: #D3D3D3; border: 5px solid maroon;">
+        <h2>Tunnel http://ssp.tunnel.qydev.com unavailable</h2>
+        <p>Unable to initiate connection to <strong>127.0.0.1:80</strong>. A web server must be running on port <strong>127.0.0.1:80</strong> to complete the tunnel.</p>
+
+[INFO ] [12:44:25] com.my.http.HttpRequestUtils - http://ssp.tunnel.qydev.com/pub?userkey=AZDZ00000103&data=&date=201706231244
+[INFO ] [12:44:26] com.my.http.HttpRequestUtils - <html>
+<body style="background-color: #97a8b9">
+    <div style="margin:auto; width:400px;padding: 20px 60px; background-color: #D3D3D3; border: 5px solid maroon;">
+        <h2>Tunnel http://ssp.tunnel.qydev.com unavailable</h2>
+        <p>Unable to initiate connection to <strong>127.0.0.1:80</strong>. A web server must be running on port <strong>127.0.0.1:80</strong> to complete the tunnel.</p>
+
+[INFO ] [12:44:26] com.my.http.HttpRequestUtils - http://ssp.tunnel.qydev.com/pub?userkey=ZBLW00000132&data=&date=201706231244
+[INFO ] [12:44:27] com.my.http.HttpRequestUtils - <html>
+<body style="background-color: #97a8b9">
+    <div style="margin:auto; width:400px;padding: 20px 60px; background-color: #D3D3D3; border: 5px solid maroon;">
+        <h2>Tunnel http://ssp.tunnel.qydev.com unavailable</h2>
+        <p>Unable to initiate connection to <strong>127.0.0.1:80</strong>. A web server must be running on port <strong>127.0.0.1:80</strong> to complete the tunnel.</p>
+
+[INFO ] [14:14:32] com.my.http.HttpRequestUtils - http://ayssp.tunnel.qydev.com/pub?userkey=AY_AZDZ00000048&data=&date=201706231414
+[INFO ] [14:14:41] com.my.http.HttpRequestUtils - success
+[INFO ] [14:14:41] com.my.http.HttpRequestUtils - http://ayssp.tunnel.qydev.com/pub?userkey=AY_AZDZ00000103&data=&date=201706231414
+[INFO ] [14:14:43] com.my.http.HttpRequestUtils - success
+[INFO ] [14:14:43] com.my.http.HttpRequestUtils - http://117.159.191.10:93/pub?userkey=SM_ZBLW00000132&data=&date=201706231414
+[INFO ] [14:14:43] com.my.http.HttpRequestUtils - success
+[INFO ] [14:15:52] com.my.http.HttpRequestUtils - http://ayssp.tunnel.qydev.com/pub?userkey=AZDZ00000048&data=&date=201706231415
+[INFO ] [14:16:00] com.my.http.HttpRequestUtils - success
+[INFO ] [14:16:00] com.my.http.HttpRequestUtils - http://ayssp.tunnel.qydev.com/pub?userkey=AZDZ00000103&data=&date=201706231416
+[INFO ] [14:16:01] com.my.http.HttpRequestUtils - success
+[INFO ] [14:16:01] com.my.http.HttpRequestUtils - http://117.159.191.10:93/pub?userkey=ZBLW00000132&data=&date=201706231416
+[INFO ] [14:16:01] com.my.http.HttpRequestUtils - success
+[INFO ] [14:19:22] com.my.http.HttpRequestUtils - http://ayssp.tunnel.qydev.com/pub?userkey=AZDZ00000048&data=&date=201706231419
+[INFO ] [14:19:31] com.my.http.HttpRequestUtils - success
+[INFO ] [14:19:31] com.my.http.HttpRequestUtils - http://ayssp.tunnel.qydev.com/pub?userkey=AZDZ00000103&data=&date=201706231419
+[INFO ] [14:19:31] com.my.http.HttpRequestUtils - success
+[INFO ] [14:19:31] com.my.http.HttpRequestUtils - http://117.159.191.10:93/pub?userkey=ZBLW00000132&data=&date=201706231419
+[INFO ] [14:19:32] com.my.http.HttpRequestUtils - success

@@ -1,0 +1,4 @@
+[ERROR] [18:14:35] io.netty.handler.logging.LoggingHandler - [id: 0xef829acc] REGISTERED
+[ERROR] [18:14:35] io.netty.handler.logging.LoggingHandler - [id: 0xef829acc] BIND: 0.0.0.0/0.0.0.0:9999
+[INFO ] [18:14:35] com.my.server.NettySocketServer - 服务已经启动，端口号 :9999
+[ERROR] [18:14:35] io.netty.handler.logging.LoggingHandler - [id: 0xef829acc, L:/0:0:0:0:0:0:0:0:9999] ACTIVE

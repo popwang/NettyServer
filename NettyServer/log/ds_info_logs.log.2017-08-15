@@ -1,0 +1,24 @@
+[INFO ] [09:52:44] com.test.LoginClient - 00000187-info-:##0117QN=20170701095244916;ST=22;CN=2011;PW=123456;MN=ZBLW00000187;CP=&&DataTime=20170701095244;107-Rtd=253.8,107-Flag=N;&&6FC0
+[INFO ] [09:57:44] com.test.LoginClient - 00000187-info-:##0117QN=20170701095744912;ST=22;CN=2011;PW=123456;MN=ZBLW00000187;CP=&&DataTime=20170701095744;107-Rtd=253.8,107-Flag=N;&&3E80
+[INFO ] [09:58:46] com.test.LoginClient - 00000187-info-:##0117QN=20170701095846270;ST=22;CN=2011;PW=123456;MN=ZBLW00000187;CP=&&DataTime=20170701095846;B01-Rtd=253.8,B01-Flag=N;&&F9C1
+
+[INFO ] [10:03:05] com.test.LoginClient - 00000187-info-:##0115QN=20170701100305239;ST=22;CN=2011;PW=123456;MN=ZBLW00000187;CP=&&DataTime=20170701100305;40-Rtd=253.8,40-Flag=N;&&D4C1
+
+[INFO ] [10:08:05] com.test.LoginClient - 00000187-info-:##0115QN=20170701100805234;ST=22;CN=2011;PW=123456;MN=ZBLW00000187;CP=&&DataTime=20170701100805;40-Rtd=253.8,40-Flag=N;&&D941
+
+[INFO ] [10:13:05] com.test.LoginClient - 00000187-info-:##0115QN=20170701101305234;ST=22;CN=2011;PW=123456;MN=ZBLW00000187;CP=&&DataTime=20170701101305;40-Rtd=253.8,40-Flag=N;&&D941
+
+[INFO ] [15:05:55] com.test.LoginClient - [Ljava.lang.StackTraceElement;@7106e68e
+[INFO ] [15:07:34] com.test.LoginClient - Connection reset
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at com.test.LoginClient.sendDataToRemote(LoginClient.java:70)
+	at com.test.LoginClient.main(LoginClient.java:54)

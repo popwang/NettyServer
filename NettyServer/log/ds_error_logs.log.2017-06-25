@@ -1,0 +1,3 @@
+[ERROR] [10:54:57] io.netty.handler.logging.LoggingHandler - [id: 0x26b2cced] REGISTERED
+[ERROR] [10:54:57] io.netty.handler.logging.LoggingHandler - [id: 0x26b2cced] BIND: 0.0.0.0/0.0.0.0:20000
+[ERROR] [10:54:57] io.netty.handler.logging.LoggingHandler - [id: 0x26b2cced, L:/0:0:0:0:0:0:0:0:20000] ACTIVE

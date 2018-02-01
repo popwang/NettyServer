@@ -1,0 +1,9 @@
+[ERROR] [14:54:12] io.netty.handler.logging.LoggingHandler - [id: 0x2367c8d1] REGISTERED
+[ERROR] [14:54:12] io.netty.handler.logging.LoggingHandler - [id: 0x2367c8d1] BIND: 0.0.0.0/0.0.0.0:8888
+[INFO ] [14:54:12] com.test.HelloWorldServer - 服务已经启动，端口号 :8888
+[ERROR] [14:54:12] io.netty.handler.logging.LoggingHandler - [id: 0x2367c8d1, L:/0:0:0:0:0:0:0:0:8888] ACTIVE
+[ERROR] [14:54:18] io.netty.handler.logging.LoggingHandler - [id: 0x2367c8d1, L:/0:0:0:0:0:0:0:0:8888] RECEIVED: [id: 0x535ef2b9, L:/10.96.88.138:8888 - R:/10.96.88.138:51464]
+[INFO ] [14:54:19] com.my.server.DataServerHandler - /10.96.88.138:51464 客户端连接成功!
+[INFO ] [14:55:06] com.my.server.DataServerHandler - SEND,DATAS,00000088,0,65,60,0.8,1,32.1,50.6,60.7,0,0,0,0,0,33.725957,133.641365,END
+[INFO ] [14:55:25] com.my.server.DataServerHandler - SEND,DATAS,00000088,0,65,60,0.8,1,32.1,50.6,60.7,0,0,0,0,0,32.725957,132.641365,END
+[INFO ] [14:55:47] com.my.server.DataServerHandler - /10.96.88.138:51464 客户度断开连接！

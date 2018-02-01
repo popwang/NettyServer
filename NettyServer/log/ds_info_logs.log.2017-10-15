@@ -1,0 +1,8 @@
+[ERROR] [09:50:25] io.netty.handler.logging.LoggingHandler - [id: 0xb2192acf] REGISTERED
+[ERROR] [09:50:25] io.netty.handler.logging.LoggingHandler - [id: 0xb2192acf] BIND: 0.0.0.0/0.0.0.0:8888
+[INFO ] [09:50:25] com.my.server.NettySocketServer - 服务已经启动，端口号 :8888
+[ERROR] [09:50:25] io.netty.handler.logging.LoggingHandler - [id: 0xb2192acf, L:/0:0:0:0:0:0:0:0:8888] ACTIVE
+[ERROR] [20:28:50] io.netty.handler.logging.LoggingHandler - [id: 0x1e56cb16] REGISTERED
+[ERROR] [20:28:50] io.netty.handler.logging.LoggingHandler - [id: 0x1e56cb16] BIND: 0.0.0.0/0.0.0.0:9999
+[INFO ] [20:28:50] com.my.server.NettySocketServer - 服务已经启动，端口号 :9999
+[ERROR] [20:28:50] io.netty.handler.logging.LoggingHandler - [id: 0x1e56cb16, L:/0:0:0:0:0:0:0:0:9999] ACTIVE

@@ -1,0 +1,7 @@
+[ERROR] [11:14:45] io.netty.handler.logging.LoggingHandler - [id: 0xb020444f] REGISTERED
+[ERROR] [11:14:45] io.netty.handler.logging.LoggingHandler - [id: 0xb020444f] BIND: 0.0.0.0/0.0.0.0:9999
+[ERROR] [11:14:45] io.netty.handler.logging.LoggingHandler - [id: 0xb020444f, L:/0:0:0:0:0:0:0:0:9999] ACTIVE
+[ERROR] [11:19:30] io.netty.handler.logging.LoggingHandler - [id: 0x9421a36a] REGISTERED
+[ERROR] [11:19:30] io.netty.handler.logging.LoggingHandler - [id: 0x9421a36a] BIND: 0.0.0.0/0.0.0.0:9999
+[ERROR] [11:19:30] io.netty.handler.logging.LoggingHandler - [id: 0x9421a36a, L:/0:0:0:0:0:0:0:0:9999] ACTIVE
+[ERROR] [11:20:09] io.netty.handler.logging.LoggingHandler - [id: 0x9421a36a, L:/0:0:0:0:0:0:0:0:9999] RECEIVED: [id: 0x49aa6309, L:/127.0.0.1:9999 - R:/127.0.0.1:56926]

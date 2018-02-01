@@ -1,0 +1,18 @@
+[ERROR] [18:08:59] io.netty.handler.logging.LoggingHandler - [id: 0xe431a45d] REGISTERED
+[ERROR] [18:08:59] io.netty.handler.logging.LoggingHandler - [id: 0xe431a45d] BIND: 0.0.0.0/0.0.0.0:9999
+[ERROR] [18:08:59] io.netty.handler.logging.LoggingHandler - [id: 0xe431a45d, L:/0:0:0:0:0:0:0:0:9999] ACTIVE
+[ERROR] [18:09:30] io.netty.handler.logging.LoggingHandler - [id: 0xe431a45d, L:/0:0:0:0:0:0:0:0:9999] RECEIVED: [id: 0xb1e00bac, L:/127.0.0.1:9999 - R:/127.0.0.1:61315]
+[ERROR] [18:10:03] io.netty.handler.logging.LoggingHandler - [id: 0x3cf1e806] REGISTERED
+[ERROR] [18:10:03] io.netty.handler.logging.LoggingHandler - [id: 0x3cf1e806] BIND: 0.0.0.0/0.0.0.0:9999
+[ERROR] [18:10:03] io.netty.handler.logging.LoggingHandler - [id: 0x3cf1e806, L:/0:0:0:0:0:0:0:0:9999] ACTIVE
+[ERROR] [18:10:13] io.netty.handler.logging.LoggingHandler - [id: 0x3cf1e806, L:/0:0:0:0:0:0:0:0:9999] RECEIVED: [id: 0xfc520533, L:/127.0.0.1:9999 - R:/127.0.0.1:61459]
+[ERROR] [18:10:30] io.netty.handler.logging.LoggingHandler - [id: 0x3cf1e806, L:/0:0:0:0:0:0:0:0:9999] RECEIVED: [id: 0x3342c675, L:/127.0.0.1:9999 - R:/127.0.0.1:61496]
+[ERROR] [18:10:57] io.netty.handler.logging.LoggingHandler - [id: 0x2d17b412] REGISTERED
+[ERROR] [18:10:57] io.netty.handler.logging.LoggingHandler - [id: 0x2d17b412] BIND: 0.0.0.0/0.0.0.0:9999
+[ERROR] [18:10:57] io.netty.handler.logging.LoggingHandler - [id: 0x2d17b412, L:/0:0:0:0:0:0:0:0:9999] ACTIVE
+[ERROR] [18:11:06] io.netty.handler.logging.LoggingHandler - [id: 0x2d17b412, L:/0:0:0:0:0:0:0:0:9999] RECEIVED: [id: 0x17f8a03d, L:/127.0.0.1:9999 - R:/127.0.0.1:61623]
+[ERROR] [18:12:36] io.netty.handler.logging.LoggingHandler - [id: 0x2d17b412, L:/0:0:0:0:0:0:0:0:9999] RECEIVED: [id: 0xf4a14de5, L:/127.0.0.1:9999 - R:/127.0.0.1:61836]
+[ERROR] [18:14:28] io.netty.handler.logging.LoggingHandler - [id: 0xafba4fb4] REGISTERED
+[ERROR] [18:14:28] io.netty.handler.logging.LoggingHandler - [id: 0xafba4fb4] BIND: 0.0.0.0/0.0.0.0:9999
+[ERROR] [18:14:28] io.netty.handler.logging.LoggingHandler - [id: 0xafba4fb4, L:/0:0:0:0:0:0:0:0:9999] ACTIVE
+[ERROR] [18:14:33] io.netty.handler.logging.LoggingHandler - [id: 0xafba4fb4, L:/0:0:0:0:0:0:0:0:9999] RECEIVED: [id: 0x46dc967c, L:/127.0.0.1:9999 - R:/127.0.0.1:62167]
